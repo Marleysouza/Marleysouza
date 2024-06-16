@@ -1,16 +1,21 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul>
+    <summary><h1>Hi i'm marley souza</h1></summary>
+    <p>Beginner in web development 👨🏾‍💻 </p>
+</div>
+    
+<div style-"display: inline_block">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=marleysouza&show_icons=true&theme=dark" alt="stats_card" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleysouza&layout=compact&theme=dark" alt="langs_card" />
+</div>
 
-<!--
-**Marleysouza/Marleysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p><br>Front-End Languages</p>
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="dev-lang">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p><br>Contacts</p>
+  <a href="https://www.linkedin.com/in/marley-souza-da-costa-41b606301"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="mailto:ctt.marley@outlook.com"><img src="https://img.shields.io/badge/email-0264db?style=for-the-badge&logo=microsoft&logoColor=white">
+</div>
