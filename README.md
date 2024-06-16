@@ -18,4 +18,5 @@
   <p><br>Contacts</p>
   <a href="https://www.linkedin.com/in/marley-souza-da-costa-41b606301"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="mailto:ctt.marley@outlook.com"><img src="https://img.shields.io/badge/email-0264db?style=for-the-badge&logo=microsoft&logoColor=white">
+    <a href="https://www.instagram.com/marley_developer?igsh=cHk5cnk0ZW83ZXVp"><img src="https://img.shields.io/badge/Instagram-ca11d4?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
