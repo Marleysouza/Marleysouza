@@ -17,9 +17,6 @@
   <img height="30px" width="40px" src="https://skillicons.dev/icons?i=html" alt="dev-lang">
   <img height="30px" width="40px" src="https://skillicons.dev/icons?i=css" alt="dev-lang">
   <img height="30px" width="40px" src="https://skillicons.dev/icons?i=js" alt="dev-lang">
-  <img height="30px" width="40px" src="https://skillicons.dev/icons?i=react" alt="dev-lang">
-  <img height="30px" width="40px" src="https://skillicons.dev/icons?i=nodejs" alt="dev-lang">
-
 </div>
 
 <div><br>
