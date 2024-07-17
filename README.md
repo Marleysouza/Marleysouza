@@ -6,8 +6,8 @@
 <div style-"display: inline_block">
 
   <p>Beginner in web development 👨🏾‍💻 </p>
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=marleysouza&show_icons=true&theme=dark" alt="stats_card" />
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleysouza&layout=compact&theme=dark" alt="langs_card" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=marleysouza&show_icons=true&theme=dark" alt="stats_card" />
   
 </div>
 
