@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul>
     <summary><h1>Hi i'm marley souza</h1></summary>
-    <p>Web development 👨🏾‍💻 </p>
+    <p>Web developer 👨🏾‍💻 </p>
 </div>
 <br>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marleysouza&layout=compact&langs_count=8&theme=dark"/>
